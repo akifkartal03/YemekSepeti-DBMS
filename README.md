@@ -13,7 +13,7 @@ In order to make this project following tools and technologies have been used.
 
 ### Project Context
 
-In this project we have created;
+In this project, I have created;
 
 - 25 Table
 - 30 Relation
